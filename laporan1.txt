@@ -1,0 +1,11 @@
++Script1.py
+print" Hello, world!" menampilkan ; Hello, world!
+print " Kalimat pertama Saudara dalam mempraktikan Python" menampilkan: Kalimat pertama daalam mempraktikan Python 
++Script2.py 
+print ("Hello World!") menampilkan: Hello World!
+print ("Adakah perbedaan script pertama dan kedua?") menampilkan: Adakah perbedaan script pertama dan kedua? 
++String.py
+print "This is a good string" menampilkan: This is a good string
+print 'You can use single quote or double quotes for a string' menampilkan: You can use single quote or double quotes for a string
+print "This is " + " a good string" menampilkan: This is a good string
+Jadi keimpulannya script1 dan script2 sama-sama menampilkan kalimat yang sama dan string tanda + menggabungkan 2 kalimat yang ditulis 
